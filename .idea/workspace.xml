@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eeacac46-7546-42e4-ad04-7fdec3e4d6dd" name="Changes" comment="hello">
-      <change afterPath="$PROJECT_DIR$/jojko.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jojo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JOJO.java" afterDir="false" />
+    <list default="true" id="eeacac46-7546-42e4-ad04-7fdec3e4d6dd" name="Changes" comment="helloworldmvc">
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.Contract/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.controller/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.main/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.model/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloworldmvc.view/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
@@ -17,14 +19,24 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package.json" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="JOJODOHICOU &lt;noe.dohicou@2026.ucac-icam.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -33,6 +45,7 @@
   <component name="ProjectId" id="2GFz9pooa8n5IXYYznzck8iDHto" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -43,15 +56,73 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "jdk.selected.JAVA_MODULE": "openjdk-19",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="helloworldmvc.controller" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.controller">
+    <configuration name="contact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="helloworldmvc.contact.contact" />
+      <module name="Maven_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="helloworldmvc.contact.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Unnamed" type="CompoundRunConfigurationType">
       <method v="2" />
     </configuration>
+    <configuration name="controller" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="controller" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="controller.testRatioOfNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Maven_Project" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="controller" />
+      <option name="METHOD_NAME" value="testRatioOfNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.contact" />
+      <item itemvalue="Compound.Unnamed" />
+      <item itemvalue="JUnit.controller" />
+      <item itemvalue="JUnit.controller.testRatioOfNumbers" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.controller" />
+        <item itemvalue="Application.contact" />
+        <item itemvalue="JUnit.controller.testRatioOfNumbers" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -62,7 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1665998976772</updated>
       <workItem from="1665998978083" duration="211000" />
-      <workItem from="1665999198805" duration="5636000" />
+      <workItem from="1665999198805" duration="17745000" />
     </task>
     <task id="LOCAL-00001" summary="hello">
       <created>1666000116504</created>
@@ -78,7 +149,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666000144999</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="helloworldmvc">
+      <created>1666007324760</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666007324760</updated>
+    </task>
+    <task id="LOCAL-00004" summary="helloworldmvc">
+      <created>1666007414191</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1666007414191</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,6 +182,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="hello" />
-    <option name="LAST_COMMIT_MESSAGE" value="hello" />
+    <MESSAGE value="helloworldmvc" />
+    <option name="LAST_COMMIT_MESSAGE" value="helloworldmvc" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/helloworldmvc/controller/controller.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

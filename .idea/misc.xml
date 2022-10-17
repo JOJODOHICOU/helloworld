@@ -7,6 +7,15 @@
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/helloworldmvc.controller/pom.xml" />
+        <option value="$PROJECT_DIR$/helloworldmvc.main/pom.xml" />
+        <option value="$PROJECT_DIR$/helloworldmvc.model/pom.xml" />
+        <option value="$PROJECT_DIR$/helloworldmvc.view/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </set>
+    </option>
   </component>
   <component name="PWA">
     <option name="enabled" value="true" />
